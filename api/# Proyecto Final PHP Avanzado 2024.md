@@ -6,28 +6,24 @@
 - Román Gabriel Sebastián
 
 ## Alumno:
--Apellido y Nombre: Fernández Sebastián
--DNI: 34741667
--Email: fernandez90dgo@gmail.com
+- Apellido y Nombre: Fernández Sebastián
+- DNI: 34741667
+- Email: fernandez90dgo@gmail.com
 
 ## Consigna:
-Deberan crear un CRUD con LOGIN usando la API
-   que tienen en drive.
-   Si el trabajo se hace en grupos de mas de 4 se debe
-   agregar la parte de FRONT para ver el impacto
+Deberán crear un CRUD con LOGIN usando la API que tienen en drive.  
+Si el trabajo se hace en grupos de más de 4 se debe agregar la parte de FRONT para ver el impacto.
 
-## Tecnologias Aplicadas:
-
+## Tecnologías Aplicadas:
 - HTML
 - CSS
 - JavaScript
-- Php 8
+- PHP 8
 - SQL
 
-## Detalles a tener en cuenta:
-
--Tener en cuenta que Utilicé php 8.1.
--Utilicé Xampp para correr mi proyecto de manera local.
--Para hacer las pruebas, les deje dentro del archivo comprimido el script para generar la base de datos.
--Utilicé bootstrap en alguna vista del proyecto.
--El proyecto inicia en http://localhost/api/index.php
+## Detalles a Tener en Cuenta:
+- Utilicé PHP 8.1.
+- Utilicé XAMPP para correr mi proyecto de manera local.
+- Para hacer las pruebas, les dejé dentro del archivo comprimido el script para generar la base de datos.
+- Utilicé Bootstrap en alguna vista del proyecto.
+- El proyecto inicia en [http://localhost/api/index.php](http://localhost/api/index.php).
